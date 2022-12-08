@@ -1,2 +1,1 @@
-# Real-Time-Chat-App
-# Real-Time-Chat-App
+This chat app is made using html, scss , js, node.
